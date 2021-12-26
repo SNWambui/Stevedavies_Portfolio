@@ -16,4 +16,5 @@ Optimized Logistic regression, KNN, Random Forests, Decisions Trees and Stochast
 Performed correlation and regression analysis of the KC House Sales data. Using a linear model and Pearson's R, estimated the price range of houses based on square footage.
 Computed predictive analysis on multiple features of the houses. Built and Fine tuned Linear Regression, Ridge Regression, Decision tree Regression and Random Forest Regressor models. Used cross-validation and grid-search to obtain the best estimators for predicting the prices of houses.
 
+![png](corr_mat.png)
 
