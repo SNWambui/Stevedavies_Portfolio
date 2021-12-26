@@ -12,4 +12,8 @@ Optimized Logistic regression, KNN, Random Forests, Decisions Trees and Stochast
 
 ![png](output_87_0.png)
 
-### []
+### [Predicting House Prices in King County](https://github.com/SNWambui/Predicting_House_Prices_KC)
+Performed correlation and regression analysis of the KC House Sales data. Using a linear model and Pearson's R, estimated the price range of houses based on square footage.
+Computed predictive analysis on multiple features of the houses. Built and Fine tuned Linear Regression, Ridge Regression, Decision tree Regression and Random Forest Regressor models. Used cross-validation and grid-search to obtain the best estimators for predicting the prices of houses.
+
+
